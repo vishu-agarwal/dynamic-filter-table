@@ -1,0 +1,1 @@
+export const filterKeys = ['category', 'city']
